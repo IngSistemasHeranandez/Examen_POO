@@ -1,0 +1,7 @@
+C:\Users\52664\source\repos\EXAMEN_POO\EXAMEN_POO\bin\Debug\EXAMEN_POO.exe.config
+C:\Users\52664\source\repos\EXAMEN_POO\EXAMEN_POO\bin\Debug\EXAMEN_POO.exe
+C:\Users\52664\source\repos\EXAMEN_POO\EXAMEN_POO\bin\Debug\EXAMEN_POO.pdb
+C:\Users\52664\source\repos\EXAMEN_POO\EXAMEN_POO\obj\Debug\EXAMEN_POO.csproj.AssemblyReference.cache
+C:\Users\52664\source\repos\EXAMEN_POO\EXAMEN_POO\obj\Debug\EXAMEN_POO.csproj.CoreCompileInputs.cache
+C:\Users\52664\source\repos\EXAMEN_POO\EXAMEN_POO\obj\Debug\EXAMEN_POO.exe
+C:\Users\52664\source\repos\EXAMEN_POO\EXAMEN_POO\obj\Debug\EXAMEN_POO.pdb
